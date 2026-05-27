@@ -77,4 +77,4 @@ credit-risk-project/
 ## 👤 Author
 
 **Prabhu Mishra**
-[GitHub](https://github.com/Prabhatmishra007) | [LinkedIn](#)
+[GitHub](https://github.com/Prabhatmishra007) | [LinkedIn](https://www.linkedin.com/in/prabhat-mishra-ai/)
